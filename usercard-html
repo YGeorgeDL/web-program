@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/static/css/style.css ">
+</head>
+
+<body>
+    <div class="user-card">
+        <div class="user-card-head">
+            asked Jul 1,2023 at 14:30
+        </div>
+        <div class="user-card-body">
+            <div class="user-card-body-photo">
+                <img src="/static/images/20205039-杨笛龙.jpg" alt="">
+            </div>
+            <div class="user-card-body-info">
+                <div class="user-card-body-info-username">
+                    <a href="#">ydl</a>
+                </div>
+                <div class="user-card-body-info-reputation">
+                    <span style="color:#6A737C;font-weight: bold;">1025</span>
+                    <div class="user-card-body-info-reputation-item" style="background-color:darkblue"></div>
+                    3
+                    <div class="user-card-body-info-reputation-item" style="background-color:#B4B8BC"></div>
+                    14
+                    <div class=" user-card-body-info-reputation-item" style="background-color:#D1A684"></div>
+                    25
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
