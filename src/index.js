@@ -1,8 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import 'bootstrap/dist/css/bootstrap.css';
-import App from './components/app';
+import MyPlayer,{id} from "./player";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<App />);
+let player = new MyPlayer();
+
+
+console.log(player, id);
